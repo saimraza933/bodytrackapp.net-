@@ -21,7 +21,7 @@ function Terms() {
           <div className="max-w-4xl mx-auto prose prose-lg">
             <div className="bg-fitlytic-gray p-6 rounded-lg mb-8">
               <p className="text-gray-700 mb-0">
-                These Terms of Service govern your use of Fitlytic's services provided by Fitlytic Health LLC. By using our services, you agree to these terms.
+                These Terms of Service govern your use of Fitlytic's services provided by Body Track App LLC. By using our services, you agree to these terms.
               </p>
             </div>
 
@@ -58,11 +58,11 @@ function Terms() {
               If you have any questions about these Terms of Service, please contact us at:
             </p>
             <div className="bg-fitlytic-gray p-4 rounded-lg">
-              <p className="text-gray-700 mb-2"><strong>Fitlytic Health LLC</strong></p>
-              <p className="text-gray-700 mb-2">2345 Main St</p>
-              <p className="text-gray-700 mb-2">Superior, CO 80027, United States</p>
-              <p className="text-gray-700 mb-2">Phone: +1 334 359 4503</p>
-              <p className="text-gray-700">Email: legal@fitlytic.net</p>
+              <p className="text-gray-700 mb-2"><strong>Body Track App LLC</strong></p>
+              <p className="text-gray-700 mb-2">2525 Arapahoe Ave</p>
+              <p className="text-gray-700 mb-2">Boulder, CO 80302, United States</p>
+              <p className="text-gray-700 mb-2">Phone: +1 938 201 7357</p>
+              <p className="text-gray-700">Email: sales@bodytrackapp.net</p>
             </div>
           </div>
         </div>

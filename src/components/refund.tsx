@@ -21,7 +21,7 @@ function Refund() {
           <div className="max-w-4xl mx-auto prose prose-lg">
             <div className="bg-fitlytic-gray p-6 rounded-lg mb-8">
               <p className="text-gray-700 mb-0">
-                At Fitlytic Health LLC, we want you to be completely satisfied with your purchase. This refund policy outlines the terms and conditions for returns and refunds.
+                At Body Track App LLC, we want you to be completely satisfied with your purchase. This refund policy outlines the terms and conditions for returns and refunds.
               </p>
             </div>
 
@@ -62,11 +62,11 @@ function Refund() {
               To request a refund or if you have questions about our refund policy, please contact us:
             </p>
             <div className="bg-fitlytic-gray p-4 rounded-lg">
-              <p className="text-gray-700 mb-2"><strong>Fitlytic Health LLC</strong></p>
-              <p className="text-gray-700 mb-2">2345 Main St</p>
-              <p className="text-gray-700 mb-2">Superior, CO 80027, United States</p>
-              <p className="text-gray-700 mb-2">Phone: +1 334 359 4503</p>
-              <p className="text-gray-700">Email: refunds@fitlytic.net</p>
+              <p className="text-gray-700 mb-2"><strong>Body Track App LLC</strong></p>
+              <p className="text-gray-700 mb-2">2525 Arapahoe Ave</p>
+              <p className="text-gray-700 mb-2">Boulder, CO 80302, United States</p>
+              <p className="text-gray-700 mb-2">Phone: +1 938 201 7357</p>
+              <p className="text-gray-700">Email: sales@bodytrackapp.net</p>
             </div>
           </div>
         </div>

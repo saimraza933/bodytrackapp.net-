@@ -21,7 +21,7 @@ function Privacy() {
           <div className="max-w-4xl mx-auto prose prose-lg">
             <div className="bg-fitlytic-gray p-6 rounded-lg mb-8">
               <p className="text-gray-700 mb-0">
-                At Fitlytic Health LLC, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our services.
+                At Body Track App LLC, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our services.
               </p>
             </div>
 
@@ -54,11 +54,11 @@ function Privacy() {
               If you have any questions about this Privacy Policy, please contact us at:
             </p>
             <div className="bg-fitlytic-gray p-4 rounded-lg">
-              <p className="text-gray-700 mb-2"><strong>Fitlytic Health LLC</strong></p>
-              <p className="text-gray-700 mb-2">2345 Main St</p>
-              <p className="text-gray-700 mb-2">Superior, CO 80027, United States</p>
-              <p className="text-gray-700 mb-2">Phone: +1 334 359 4503</p>
-              <p className="text-gray-700">Email: privacy@fitlytic.net</p>
+              <p className="text-gray-700 mb-2"><strong>Body Track App LLC</strong></p>
+              <p className="text-gray-700 mb-2">2525 Arapahoe Ave</p>
+              <p className="text-gray-700 mb-2">Boulder, CO 80302, United States</p>
+              <p className="text-gray-700 mb-2">Phone: +1 938 201 7357</p>
+              <p className="text-gray-700">Email: sales@bodytrackapp.net</p>
             </div>
           </div>
         </div>

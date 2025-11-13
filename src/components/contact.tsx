@@ -106,8 +106,7 @@ function Contact() {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Email</h3>
-                      <p className="text-gray-600">support@fitlytic.net</p>
-                      <p className="text-gray-600">info@fitlytic.net</p>
+                      <p className="text-gray-600">sales@bodytrackapp.net</p>
                     </div>
                   </div>
                   
@@ -117,7 +116,7 @@ function Contact() {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Phone</h3>
-                      <p className="text-gray-600">+1 334 359 4503</p>
+                      <p className="text-gray-600">+1 938 201 7357</p>
                       <p className="text-gray-600">Mon-Fri, 9am-5pm MST</p>
                     </div>
                   </div>
@@ -128,8 +127,8 @@ function Contact() {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Office</h3>
-                      <p className="text-gray-600">2345 Main St</p>
-                      <p className="text-gray-600">Superior, CO 80027</p>
+                      <p className="text-gray-600">2525 Arapahoe Ave</p>
+                      <p className="text-gray-600">Boulder, CO 80302</p>
                       <p className="text-gray-600">United States</p>
                     </div>
                   </div>

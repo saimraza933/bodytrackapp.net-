@@ -551,10 +551,12 @@ const HomePage = () => {
                 Track Smarter. Train Stronger. Live Healthier. Your complete digital fitness companion for achieving your health and wellness goals.
               </p>
               <div className="text-sm text-gray-400">
-                <p>Fitlytic Health LLC</p>
-                <p>2345 Main St</p>
-                <p>Superior, CO 80027, United States</p>
-                <p className="mt-2">Phone: +1 334 359 4503</p>
+                <p>Body Track App LLC</p>
+                <p>2525 Arapahoe Ave</p>
+                <p>Boulder, CO 80302, United States</p>
+                <p className="mt-2">Phone: +1 938 201 7357</p>
+                <p>Email: sales@bodytrackapp.net</p>
+                <p>Website: www.bodytrackapp.net</p>
               </div>
             </div>
 
@@ -586,7 +588,7 @@ const HomePage = () => {
           {/* Bottom Bar */}
           <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Fitlytic Health LLC. All rights reserved.
+              © 2024 Body Track App LLC. All rights reserved.
             </p>
             <div className="flex items-center space-x-4 mt-4 md:mt-0">
               <span className="text-gray-400 text-sm">Made with ❤️ for your fitness journey</span>
