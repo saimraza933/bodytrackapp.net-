@@ -51,8 +51,8 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        // Fitlytic brand colors
-        fitlytic: {
+        // Body Track brand colors
+        bodytrack: {
           green: "#10B981", // Emerald green
           black: "#111111",
           white: "#FFFFFF",

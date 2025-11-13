@@ -24,7 +24,7 @@ const defaultTestimonials: Testimonial[] = [
     id: 1,
     name: 'Sarah Johnson',
     role: 'Premium Member',
-    quote: 'Fitlytic transformed my approach to fitness. The meal plans and workout guides helped me lose 30 pounds in just 4 months!',
+    quote: 'Body Track transformed my approach to fitness. The meal plans and workout guides helped me lose 30 pounds in just 4 months!',
     avatar: 'https://api.dicebear.com/7.x/avataaars/svg?seed=sarah',
     beforeAfterImage: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&q=80',
     rating: 5
@@ -51,7 +51,7 @@ const defaultTestimonials: Testimonial[] = [
     id: 4,
     name: 'David Wilson',
     role: 'Premium Member',
-    quote: "As a busy professional, Fitlytic's meal plans saved me time while helping me reach my fitness goals. Highly recommend!",
+    quote: "As a busy professional, Body Track's meal plans saved me time while helping me reach my fitness goals. Highly recommend!",
     avatar: 'https://api.dicebear.com/7.x/avataaars/svg?seed=david',
     beforeAfterImage: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800&q=80',
     rating: 5
@@ -90,7 +90,7 @@ const TestimonialCarousel: React.FC<TestimonialCarouselProps> = ({ testimonials 
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Success Stories</h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-            See how Fitlytic has helped people transform their lives and achieve their fitness goals.
+            See how Body Track has helped people transform their lives and achieve their fitness goals.
           </p>
         </div>
 

@@ -67,7 +67,7 @@ const HomePage = () => {
               transition={{ duration: 0.5 }}
             >
               <a href="#" className="text-2xl font-bold text-green-500">
-                Fitlytic
+                Body Track
               </a>
             </motion.div>
           </div>
@@ -109,7 +109,7 @@ const HomePage = () => {
               className="text-center mb-16"
             >
               <h2 className="text-4xl font-bold mb-4">
-                Why Choose <span className="text-green-500">Fitlytic</span>?
+                Why Choose <span className="text-green-500">Body Track</span>?
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto">
                 Our digital fitness platform combines cutting-edge technology
@@ -285,7 +285,7 @@ const HomePage = () => {
           </div>
         </section>
 
-        {/* Testimonials - Implement our own since TestimonialCarousel is not available */}
+        {/* Testimonials */}
         <section id="testimonials" className="py-20 bg-black">
           <div className="container mx-auto px-4">
             <motion.div
@@ -299,7 +299,7 @@ const HomePage = () => {
                 Success <span className="text-green-500">Stories</span>
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto">
-                See how Fitlytic has helped transform the lives of our dedicated
+                See how Body Track has helped transform the lives of our dedicated
                 users.
               </p>
             </motion.div>
@@ -355,10 +355,10 @@ const HomePage = () => {
                 viewport={{ once: true }}
               >
                 <h2 className="text-4xl font-bold mb-6">
-                  About <span className="text-green-500">Fitlytic</span>
+                  About <span className="text-green-500">Body Track</span>
                 </h2>
                 <p className="text-gray-400 mb-6">
-                  Founded in 2020, Fitlytic was born from a simple idea: fitness
+                  Founded in 2020, Body Track was born from a simple idea: fitness
                   tracking should be powerful yet simple. Our team of fitness
                   professionals and tech experts came together to create digital
                   tools that actually help people achieve their goals.
@@ -386,7 +386,7 @@ const HomePage = () => {
                 <div className="aspect-video rounded-xl overflow-hidden">
                   <img
                     src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&q=80"
-                    alt="Fitlytic Team"
+                    alt="Body Track Team"
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -513,7 +513,7 @@ const HomePage = () => {
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto mb-8">
                 Join thousands of satisfied users who have taken control of
-                their health with Fitlytic's digital fitness tools.
+                their health with Body Track's digital fitness tools.
               </p>
               <div className="flex flex-col sm:flex-row justify-center gap-4">
                 <Link to="/subscription">
@@ -543,9 +543,9 @@ const HomePage = () => {
             <div className="md:col-span-2">
               <div className="flex items-center mb-4">
                 <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center mr-3">
-                  <span className="text-black font-bold text-lg">F</span>
+                  <span className="text-black font-bold text-lg">B</span>
                 </div>
-                <span className="text-xl font-bold">Fitlytic</span>
+                <span className="text-xl font-bold">Body Track</span>
               </div>
               <p className="text-gray-400 mb-4 max-w-md">
                 Track Smarter. Train Stronger. Live Healthier. Your complete digital fitness companion for achieving your health and wellness goals.

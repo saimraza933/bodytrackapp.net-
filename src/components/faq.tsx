@@ -20,7 +20,7 @@ export default function FAQ() {
     },
     {
       question: "How do I contact support?",
-      answer: "You can reach our support team through the contact form, email at support@fitlytic.com, or through the in-app chat feature."
+      answer: "You can reach our support team through the contact form, email at sales@bodytrackapp.net, or through the in-app chat feature."
     },
     {
       question: "Are the meal plans customizable?",
@@ -31,13 +31,13 @@ export default function FAQ() {
   return (
     <Layout>
       <div className="bg-white min-h-screen">
-        <div className="fitlytic-container py-16">
+        <div className="bodytrack-container py-16">
           <div className="text-center mb-16">
-            <h1 className="text-4xl font-bold text-fitlytic-black mb-4">
+            <h1 className="text-4xl font-bold text-bodytrack-black mb-4">
               Frequently Asked Questions
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Find answers to common questions about Fitlytic's products and services.
+              Find answers to common questions about Body Track's products and services.
             </p>
           </div>
 
@@ -45,7 +45,7 @@ export default function FAQ() {
             <div className="space-y-6">
               {faqs.map((faq, index) => (
                 <div key={index} className="bg-gray-50 rounded-lg p-6">
-                  <h3 className="text-xl font-semibold text-fitlytic-black mb-3">
+                  <h3 className="text-xl font-semibold text-bodytrack-black mb-3">
                     {faq.question}
                   </h3>
                   <p className="text-gray-600 leading-relaxed">
@@ -55,16 +55,16 @@ export default function FAQ() {
               ))}
             </div>
 
-            <div className="mt-16 text-center bg-fitlytic-green/10 rounded-lg p-8">
-              <h2 className="text-2xl font-bold text-fitlytic-black mb-4">
+            <div className="mt-16 text-center bg-bodytrack-green/10 rounded-lg p-8">
+              <h2 className="text-2xl font-bold text-bodytrack-black mb-4">
                 Still have questions?
               </h2>
               <p className="text-gray-600 mb-6">
-                Our support team is here to help you get the most out of Fitlytic.
+                Our support team is here to help you get the most out of Body Track.
               </p>
               <a
                 href="/contact"
-                className="fitlytic-button inline-block"
+                className="bodytrack-button inline-block px-6 py-3"
               >
                 Contact Support
               </a>

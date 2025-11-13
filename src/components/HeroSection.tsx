@@ -12,7 +12,7 @@ interface HeroSectionProps {
 }
 
 const HeroSection = ({
-  title = "Fitlytic",
+  title = "Body Track",
   subtitle = "Digital Fitness Platform",
   tagline = "Track Smarter. Train Stronger. Live Healthier.",
   ctaText = "Start Your Subscription",
@@ -105,7 +105,7 @@ const HeroSection = ({
             >
               <img
                 src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&q=80"
-                alt="Fitlytic App"
+                alt="Body Track App"
                 className="h-[500px] rounded-xl shadow-2xl border border-white/10"
               />
             </motion.div>

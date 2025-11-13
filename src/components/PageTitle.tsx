@@ -6,19 +6,19 @@ const PageTitle = () => {
 
   useEffect(() => {
     const titles: { [key: string]: string } = {
-      '/': 'Fitlytic - Digital Fitness Platform | Track Smarter. Train Stronger.',
-      '/products': 'Products - Workout Guides & Meal Plans | Fitlytic',
-      '/subscription': 'Subscription Plans - Premium Fitness Access | Fitlytic',
-      '/about': 'About Us - Meet the Fitlytic Team | Fitlytic',
-      '/blog': 'Fitness Blog - Tips & Insights | Fitlytic',
-      '/contact': 'Contact Us - Get in Touch | Fitlytic',
-      '/faq': 'FAQ - Frequently Asked Questions | Fitlytic',
-      '/terms': 'Terms of Service | Fitlytic',
-      '/privacy': 'Privacy Policy | Fitlytic',
-      '/refund': 'Refund Policy | Fitlytic'
+      '/': 'Body Track - Digital Fitness Platform | Track Smarter. Train Stronger.',
+      '/products': 'Products - Workout Guides & Meal Plans | Body Track',
+      '/subscription': 'Subscription Plans - Premium Fitness Access | Body Track',
+      '/about': 'About Us - Meet the Body Track Team | Body Track',
+      '/blog': 'Fitness Blog - Tips & Insights | Body Track',
+      '/contact': 'Contact Us - Get in Touch | Body Track',
+      '/faq': 'FAQ - Frequently Asked Questions | Body Track',
+      '/terms': 'Terms of Service | Body Track',
+      '/privacy': 'Privacy Policy | Body Track',
+      '/refund': 'Refund Policy | Body Track'
     };
 
-    const title = titles[location.pathname] || 'Fitlytic - Digital Fitness Platform';
+    const title = titles[location.pathname] || 'Body Track - Digital Fitness Platform';
     document.title = title;
   }, [location.pathname]);
 
